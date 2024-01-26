@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Retrieves list of processes currently running for all users
+
+ps -aux --forest
